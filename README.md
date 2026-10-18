@@ -3,10 +3,10 @@
 Aspiring **electrical engineer** from Austin, TX. I like building things and figuring out how they work.
 
 ### What I'm into
-- 📡 **RF & software-defined radio**: GNU Radio, SDR++
-- 🔌 **Embedded systems**: Arduino, ESP32 (ESP-IDF), LoRa mesh with Meshtastic
-- 🛠️ **PCB design**: KiCad
-- 💻 **Web development**: HTML, CSS, JavaScript
+- **RF & software-defined radio**: GNU Radio, SDR++
+- **Embedded systems**: Arduino, ESP32 (ESP-IDF), LoRa mesh with Meshtastic
+- **PCB design**: KiCad
+- **Web development**: HTML, CSS, JavaScript
 
 ### Tools & languages
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
